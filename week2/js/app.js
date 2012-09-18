@@ -1,3 +1,3 @@
 function hello() {
-	alert("Hello, World!");
+	alert("<p>Browser Version: " + navigator.appVersion + "</p>");
 }
