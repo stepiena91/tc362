@@ -1,0 +1,32 @@
+.content {
+	width: 600px;
+	margin: 0 auto;
+	background: #003300;
+	padding: 20px;
+	font-family: "palatino";
+}
+
+p, ul {
+	color: #99FFFF;
+}
+
+h1, h2 {
+	margin-left: 20px;
+	margin-top: 0;
+}
+
+h2, h3 {
+	color: #99ccff;
+}
+
+h1{
+	color: #999999;
+}
+
+table, tr, td {
+	padding:10px;
+}
+
+a:visited {
+	color: #cc9900;
+}
