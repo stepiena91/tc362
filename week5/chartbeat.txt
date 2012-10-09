@@ -1,0 +1,8 @@
+When I first took a a look at chartbeat.com, I was slightly confused as to why the website was set up the way it is.
+After reading that they offer real-time tools for websites, it began to make more sense. I liked how as you scroll
+down the site, the information is presented in a slideshow-like manner, complete with updated live information about
+various aspects of the website. There are also buttons that take the user to the next "page" of info.
+
+The information on the website is presented in a logical way as the user scrolls down the page. The general color
+scheme and design is pleasing to the eye. The contact information is located at the bottom of the page and is
+well-organized. Overall, the website is successful in delivering its content in an effective way.
